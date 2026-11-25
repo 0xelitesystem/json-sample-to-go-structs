@@ -1,8 +1,8 @@
-# JSON to Go Struct
+# JSON Sample to Go Structs
 
 Paste JSON and generate Go structs with exported CamelCase field names, correct types, and json struct tags that preserve the original keys. Handles nested and anonymous structs and arrays of objects. Everything runs in your browser with no external dependencies and works offline.
 
-**Live demo:** https://0xelitesystem.github.io/json-to-go-struct/
+**Live demo:** https://0xelitesystem.github.io/json-sample-to-go-structs/
 
 ## Use
 
@@ -36,8 +36,8 @@ Everything happens locally in your browser. Your JSON is never uploaded, logged,
 ## Run locally
 
 ```
-git clone https://github.com/0xelitesystem/json-to-go-struct
-cd json-to-go-struct
+git clone https://github.com/0xelitesystem/json-sample-to-go-structs
+cd json-sample-to-go-structs
 ```
 
 Open `index.html` in any modern browser. Or serve the folder with `python -m http.server` and visit http://localhost:8000.
